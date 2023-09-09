@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    ".gitignore": "shellscript",
+    ".css": "tailwindcss",
+    "stdio.h": "c"
+  }
+}
